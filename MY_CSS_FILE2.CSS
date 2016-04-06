@@ -1,0 +1,66 @@
+
+
+body{
+  font-family: georgia;
+  width: 1280px;
+  margin: 0 auto;
+}
+
+div.container{
+  padding-top: 50px;
+  color: white;
+  width: 1280px;
+  height: 200px;
+  text-align: center;
+  background-color: #33334d;
+}
+
+div.nav{
+  margin-right: 80px;
+  text-align: right;
+  font-size: 30px;
+}
+
+div.nav span{
+  margin-left: 30px;
+}
+
+div.container h1{
+  text-align: left;
+  margin-left: 25px;
+  margin-bottom: 25px;
+  font-size: 76px;
+}
+div.inline{
+  vertical-align: top;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+div.profile{
+  margin-left: 50px;
+  width: 400px;
+}
+
+div.profile h2{
+  margin-bottom: 20px;
+  font-size: 30px, bold;
+
+}
+div.profile p{
+  font-size: 15px;
+}
+
+div.profile button{
+  margin-top: 10px;
+  border: 0;
+  border-radius: 5px;
+  background-color: #0099cc;
+  color: white;
+  font-size: 15px;
+  width: 130px;
+  height: 25px;
+  align-self: right
+}
+
+
